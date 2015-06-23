@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleDocumentTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeExtensions</key>
+			<array>
+				<string>lgo</string>
+			</array>
+			<key>CFBundleTypeName</key>
+			<string>Terrapin Logo program</string>
+			<key>CFBundleTypeOSTypes</key>
+			<array>
+				<string>TEXT</string>
+			</array>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+		</dict>
+		<dict>
+			<key>CFBundleTypeExtensions</key>
+			<array>
+				<string>lgz</string>
+			</array>
+			<key>CFBundleTypeName</key>
+			<string>Terrapin Logo archive</string>
+			<key>CFBundleTypeOSTypes</key>
+			<array>
+				<string>Data</string>
+			</array>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+		</dict>
+		<dict>
+			<key>CFBundleTypeExtensions</key>
+			<array>
+				<string>pict</string>
+			</array>
+			<key>CFBundleTypeName</key>
+			<string>Pict Image file</string>
+			<key>CFBundleTypeOSTypes</key>
+			<array>
+				<string>PICT</string>
+			</array>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+		</dict>
+		<dict>
+			<key>CFBundleTypeExtensions</key>
+			<array>
+				<string>pref</string>
+			</array>
+			<key>CFBundleTypeName</key>
+			<string>Preferences file</string>
+			<key>CFBundleTypeOSTypes</key>
+			<array>
+				<string>PREF</string>
+			</array>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+		</dict>
+		<dict>
+			<key>CFBundleTypeExtensions</key>
+			<array>
+				<string>jpg</string>
+			</array>
+			<key>CFBundleTypeName</key>
+			<string>JPEG Image file</string>
+			<key>CFBundleTypeOSTypes</key>
+			<array>
+				<string>JPEG</string>
+			</array>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+		</dict>
+		<dict>
+			<key>CFBundleTypeExtensions</key>
+			<array>
+				<string>bmp</string>
+			</array>
+			<key>CFBundleTypeName</key>
+			<string>BMP Image file</string>
+			<key>CFBundleTypeOSTypes</key>
+			<array>
+				<string>BMPp</string>
+				<string>BMP </string>
+			</array>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+		</dict>
+	</array>
+	<key>CFBundleExecutable</key>
+	<string>Terrapin Logo Runtime OSX</string>
+	<key>CFBundleGetInfoString</key>
+	<string>Terrapin Logo Runtime OSX version 3.0, Copyright © 2003-2006 by Terrapin Software.  All rights reserved.</string>
+	<key>CFBundleIconFile</key>
+	<string>Terrapin Logo Runtime OSX.rsrc</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.Terrapin.Logo2000.Carbon</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Terrapin Logo Runtime OSX</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>Terrapin Logo Runtime OSX version 3.0</string>
+	<key>CFBundleSignature</key>
+	<string>Logo</string>
+	<key>CFBundleVersion</key>
+	<string>3.0</string>
+</dict>
+</plist>

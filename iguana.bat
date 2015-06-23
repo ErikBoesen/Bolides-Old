@@ -1,0 +1,1 @@
+start logoRT "komodo.lgz"
